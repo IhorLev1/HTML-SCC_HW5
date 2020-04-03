@@ -20,7 +20,7 @@ body {
   font-family: "Roboto";
   font-size: 30px;
   line-height: 32px;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
   color: #555252;
   text-decoration: none;
@@ -37,7 +37,7 @@ body {
   list-style: none;
   width: 475px;
   font-family: "Open Sans";
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 11px;
   text-transform: uppercase;
